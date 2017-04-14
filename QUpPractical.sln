@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QUpPractical.Web", "QUpPractical\QUpPractical.Web.csproj", "{47DCEDC6-B056-4E7D-B551-8FCD64F66BDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QUpPractical.Tests", "QUpPractical.Tests\QUpPractical.Tests.csproj", "{A94C533B-383C-4355-83D3-34422AB9B50D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47DCEDC6-B056-4E7D-B551-8FCD64F66BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47DCEDC6-B056-4E7D-B551-8FCD64F66BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47DCEDC6-B056-4E7D-B551-8FCD64F66BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47DCEDC6-B056-4E7D-B551-8FCD64F66BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A94C533B-383C-4355-83D3-34422AB9B50D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A94C533B-383C-4355-83D3-34422AB9B50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A94C533B-383C-4355-83D3-34422AB9B50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A94C533B-383C-4355-83D3-34422AB9B50D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
