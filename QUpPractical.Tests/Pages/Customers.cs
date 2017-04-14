@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace QUpPractical.Tests.Pages
 {
-    class HomePage
+    public class Customers
     {
     }
 }
