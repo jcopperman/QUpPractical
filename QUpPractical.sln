@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QUpPractical.Web", "QUpPractical\QUpPractical.Web.csproj", "{47DCEDC6-B056-4E7D-B551-8FCD64F66BDE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QUpPractical.Tests", "QUpPractical.Tests\QUpPractical.Tests.csproj", "{A94C533B-383C-4355-83D3-34422AB9B50D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QUp.AutomationFramework", "QUp.AutomationFramework\QUp.AutomationFramework.csproj", "{661028E7-4186-4C71-BB92-EA840FA9BB4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A94C533B-383C-4355-83D3-34422AB9B50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A94C533B-383C-4355-83D3-34422AB9B50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A94C533B-383C-4355-83D3-34422AB9B50D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{661028E7-4186-4C71-BB92-EA840FA9BB4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661028E7-4186-4C71-BB92-EA840FA9BB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661028E7-4186-4C71-BB92-EA840FA9BB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661028E7-4186-4C71-BB92-EA840FA9BB4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
